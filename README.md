@@ -23,3 +23,5 @@
 1. **엣지 검출 및 관심 영역의 설정**: 영상 마다 다른 엣지 검출 할 때의 Threshold 값 설정이 어려울 것이라 예상합니다. <br>
 2. **output.mp4의 재생 혹은 코덱 문제**: 초기 input과의 맞지 않는 코덱 및 해상도 문제를 해결하기 위해 input 이미지와의 정보를 cv2.VideoCapture 에서의 CAP_PROP_FPS, CAP_PROP_FRAME_WIDTH, CAP_PROP_FRAME_HEIGHT 등을 가져와서 코드 재사용성을 높였습니다.<br>
 
+https://github.com/mino1998/Vision_Map_LaneDetection/assets/55076739/504c9b8c-8fe8-465d-a1bd-3ed4eae10de4
+
